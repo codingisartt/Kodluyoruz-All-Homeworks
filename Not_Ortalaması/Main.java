@@ -1,5 +1,4 @@
 package Not_Ortalaması;
-
 import java.util.Scanner;
 
 public class Main{
