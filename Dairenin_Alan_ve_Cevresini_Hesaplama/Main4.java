@@ -16,7 +16,6 @@ public class Main4 {
         System.out.println("Alan= "+alan);
         System.out.println("Çevre= "+cevre);
         System.out.println("𝛼 değeri verilen dairenin alanı= "+alan2);
-        
-
+             
     }
 }
